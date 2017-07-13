@@ -1,0 +1,40 @@
+/*Styles specific to documenting regular expressions*/
+
+.admonition-example{
+    outline: thin solid #6ab0de;
+    padding: 6px 12px;
+    margin-bottom: 12px;
+}
+
+.admonition-example .admonition-title:before{
+    content: '';
+}
+
+code.literal.regexp{
+    color: SteelBlue;
+    font-size: 100%;
+}
+
+
+
+.regex-matched-text-block{
+    /** same as
+        div[class^='highlight'] pre
+    **/
+    white-space: pre;
+    margin: 0;
+    padding: 12px 12px;
+    font-family: Consolas,"Andale Mono WT","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L",Monaco,"Courier New",Courier,monospace;
+    font-size: 16px;
+    line-height: 1.5;
+    display: block;
+    overflow: auto;
+    color: #404040;
+}
+
+.regex-matched-text-block em{
+    background: Bisque;
+    font-style: normal;
+    font-weight: bold;
+    padding: 2px;
+}
