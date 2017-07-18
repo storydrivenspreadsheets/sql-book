@@ -4,8 +4,7 @@ Syntax and Concepts Guide to Regular Expressions
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Contents:
 
-   select/index
-   where/index
+   select-statement/index
