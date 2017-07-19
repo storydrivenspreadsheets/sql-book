@@ -9,13 +9,13 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua.
 
 
-Walkthrough
-===========
+Walkthroughs
+============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-   walkthrough/index
+   walkthroughs/babynames/index
 
 Syntax and concept reference
 ============================

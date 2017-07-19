@@ -24,6 +24,7 @@ SELECT Statement
    order-by/index
    limit/index
 
+   case-select/index
    transformation-functions/index
    date-time/index
    group-by/index
