@@ -6,6 +6,8 @@ Articles
 ========
 
 .. include:: _articles.rst
+.. include:: _docs.rst
+
 
 Books
 =====

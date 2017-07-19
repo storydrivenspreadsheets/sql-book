@@ -16,6 +16,7 @@ Walkthroughs
    :maxdepth: 1
 
    walkthroughs/babynames/index
+   walkthroughs/us-election-state-results/index
 
 Syntax and concept reference
 ============================
@@ -33,8 +34,9 @@ Resources and Guides
 .. toctree::
    :maxdepth: 1
 
-   guides/style
-   guides/troubleshooting
+   guides/recipes/index
+   guides/style/index
+   guides/troubleshooting/index
 
 .. toctree::
    :maxdepth: 2
